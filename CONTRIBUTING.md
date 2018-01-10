@@ -52,9 +52,9 @@ documentation.
 
 1. Get a [GitHub Account](https://github.com/signup/free)
 1. [Fork](https://help.github.com/articles/fork-a-repo) SunPy on GitHub
-1. Install the developer version of SunPy using git. 
+1. Install the developer version of SunPy using git.
 1. Make your changes and push to your fork.
-1. Create a .
+1. Create a pull request.
 
 If any of the above steps are unfamiliar to you check out our
 [Developers Guide](http://docs.sunpy.org/en/latest/dev.html). (Suggesting
@@ -82,9 +82,9 @@ ensure that there are adequate tests which pass and PEP 8 is adhered to.
 
 ## Pull Requests to non-master Branches
 
-From time to time, large feature development work may occur in branches other than master, and all 
+From time to time, large feature development work may occur in branches other than master, and all
 maintained releases currently have a branch i.e. `0.6`.
-When making a PR to one of these branches (not master), please put the name of the branch in square brackets at 
+When making a PR to one of these branches (not master), please put the name of the branch in square brackets at
 the beginning of the PR, i.e. `[0.6] My bug fix`. This makes it easier to filter and review these PRs on GitHub.
 
 ## More Information
